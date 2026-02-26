@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/tmp/kavia/workspace/code-generation/unified-task-management-dashboard-1350-1364/task_management_frontend"
+}
